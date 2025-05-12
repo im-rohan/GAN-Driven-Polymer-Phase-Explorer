@@ -2,7 +2,9 @@
 
 ## GAN-Powered Initial Guess Generation for Block Polymer Phase Discovery<br>
 Advisor - Dr. Lenart Bill<br>
-This is a project (inprogress) undertaken during my spring semester.
+This is a project (inprogress) undertaken during my spring semester.<br>
+The model training was done on Discovery Cluster (T4 GPU) provided by Northeastern University.<br>
+It was also presented at the 2025 student showcase.
 
 **Problem statement** -<br>
 The discovery of new block polymer phases is crucial for advancing materials science and nanotechnology. However, traditional self-consistent field theory (SCFT) simulations are computationally expensive and heavily dependent on initial guesses, often limiting exploration to known phases. This project addresses the challenge of generating diverse and potentially novel initial guesses for SCFT simulations in block polymer phase discovery.
