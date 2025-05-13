@@ -3,7 +3,8 @@
 Advisor - Dr. Lenart Bill<br>
 This is a project (inprogress) undertaken during my spring semester.<br>
 The model training was done on Discovery Cluster (T4 GPU) provided by Northeastern University.<br>
-It was also presented at the 2025 student showcase.
+It was also presented at the 2025 student showcase.<br>
+The project was used as a mid-term project for CS 6140 class as an XN project.
 
 **Problem statement** -<br>
 The discovery of new block polymer phases is crucial for advancing materials science and nanotechnology. However, traditional self-consistent field theory (SCFT) simulations are computationally expensive and heavily dependent on initial guesses, often limiting exploration to known phases. This project addresses the challenge of generating diverse and potentially novel initial guesses for SCFT simulations in block polymer phase discovery.
