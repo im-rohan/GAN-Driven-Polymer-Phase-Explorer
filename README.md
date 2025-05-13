@@ -1,6 +1,5 @@
 # GAN-Driven-Polymer-Phase-Explorer
 
-## GAN-Powered Initial Guess Generation for Block Polymer Phase Discovery<br>
 Advisor - Dr. Lenart Bill<br>
 This is a project (inprogress) undertaken during my spring semester.<br>
 The model training was done on Discovery Cluster (T4 GPU) provided by Northeastern University.<br>
